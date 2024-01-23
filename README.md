@@ -13,7 +13,7 @@ Before using the Prometheus Process Monitor Generator, ensure you have Go instal
 Clone the repository to your local machine:
 
 ```bash
-git clone [<repository-url>](https://github.com/chrisjchandler/promgenproc.git)
+git clone https://github.com/chrisjchandler/promgenproc.git
 cd promgenproc
 
 Build the generator:
